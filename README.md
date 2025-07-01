@@ -11,7 +11,6 @@ Project Structure
 - sample_data.sql – Sample INSERTs for realistic student records
 - queries.sql – SELECTs, JOINs, attendance %, leave filters, sports reports
 - views_and_functions.sql – Views and PL/pgSQL functions & cursor block
-- screenshots/ – Optional: output screenshots later
 
 Features
 - Tracks student attendance & calculates percentage
